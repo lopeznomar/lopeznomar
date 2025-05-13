@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @lopeznomar
-- 👀 I’m interested in ... Blockchain and Data Science Development 
-- 🌱 I’m currently learning ... Solidity
-- 💞️ I’m looking to collaborate on ... ETL Projects 
-- 📫 How to reach me ... lopeznomar@gmail.com +584128318409 
+👋 Hello, I'm Ramón López
+Systems Engineer | Data Analyst | AI & Automation Enthusiast
 
-<!---
-lopeznomar/lopeznomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about leveraging technology to solve complex problems, I specialize in data analysis,
+process automation, and innovative solutions powered by AI. With a strong foundation in systems engineering, 
+I thrive at the intersection of data, blockchain, and intelligent automation.
+
+🔍 Interests:
+
+Data Science & Advanced Analytics
+
+Blockchain Development (currently diving deep into Solidity)
+
+AI/ML Applications & Process Automation
+
+🌱 Current Focus:
+Expanding my expertise in smart contract development and contributing to impactful ETL projects that transform raw data into actionable insights.
+
+🐾 Beyond Code:
+When I'm not debugging or optimizing systems, you'll find me hiking in nature or enjoying time with my dogs—because balance is key!
+
+📫 Let's Connect:
+
+✉️ Email: lopeznomar@gmail.com
+
+📞 Phone: +58 412-8318409
+
+Open to collaborations that push boundaries. Let’s build something meaningful!
+
