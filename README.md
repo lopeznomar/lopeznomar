@@ -14,7 +14,7 @@ Blockchain Development (currently diving deep into Solidity)
 AI/ML Applications & Process Automation
 
 🌱 Current Focus:
-Expanding my expertise in smart contract development and contributing to impactful ETL projects that transform raw data into actionable insights.
+Expanding my expertise to impactful projects that transform raw data into actionable insights.
 
 🐾 Beyond Code:
 When I'm not debugging or optimizing systems, you'll find me hiking in nature or enjoying time with my dogs—because balance is key!
